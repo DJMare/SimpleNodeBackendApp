@@ -11,4 +11,4 @@ This simple node backend app will print a greeting to the screen. The user can s
 ![Run node index js in terminal](https://user-images.githubusercontent.com/35668707/66874284-898a8900-ef5f-11e9-9012-d1055a206a6d.JPG)
 
 4/Navigate to localhost:3000 in your web browser to see the greeting pop up
-![Navigate to localhost3000 in browser](https://user-images.githubusercontent.com/35668707/66874374-c5255300-ef5f-11e9-9136-0e4639045705.JPG)
+![Navigate to localhost3000 in browser](https://user-images.githubusercontent.com/35668707/66874677-c99e3b80-ef60-11e9-919e-0959c03a8923.JPG)
