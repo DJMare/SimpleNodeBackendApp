@@ -1,6 +1,5 @@
 # SimpleNodeBackendApp
-This simple node backend app will print a greeting to the screen. The user can send a request to the server by going to a specific URL, then the server can respond with what is instructed.
-
+This node backend app will print a greeting to the screen. The user can send a request to the server by going to a specific URL, then the server can respond with what is instructed.
 
 (1) Create a basic folder on your desktop for the app, then create a basic 'index.js' file in the folder
 
